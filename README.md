@@ -11,16 +11,19 @@
 
 ### My Skills 
 <p align="center">
-  ##🔥 Cloud infrastructure and Deployments
+  ### Cloud infrastructure and Deployments
 </p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,git,githubactions,vercel,kafka,grafana,prometheus,kubernetes,docker,ansible" />
   </a>
 </p>
+
+
 <p align="center">
-  ##🔥 Backend frameworks, languages and databases
+  ### Backend frameworks, languages and databases
 </p>
 
 <p align="center">
@@ -29,7 +32,7 @@
   </a>
 </p>
 <p align="center">
-  ##🔥 Frontend frameworks and languages
+  ### Frontend frameworks and languages
 </p>
 
 <p align="center">
@@ -37,8 +40,8 @@
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js" />
   </a>
 </p>
-<p allign="center">
-  ## 🔥 Testing frameworks
+<p align="center">
+  ### Testing frameworks
 </p>
 
 <p align="center">
@@ -47,7 +50,7 @@
   </a>
 </p>
 
-## Connect with me:
+### Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawit-elias-gebremariam/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dawitelias/)
 [![github](https://skillicons.dev/icons?i=tweeter)](https://x.com/DawitEliasge/)
