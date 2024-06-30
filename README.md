@@ -1,2 +1,60 @@
-- 👋 Hi, I’m Dawit Elias, a Fullstack Software engineer. I am currently freelancing and building micro SaaS applications.
-- I am currently building verasity.ai a SaaS app focuisng on marketing, SEO nd A/B testing. I am open to any jobs under the title Fullstack, frontend or backend software engineer.
+### **Computer science** uder grad
+### I architect scalable, robust and perfromant backend and AWS cloud infrastructures.
+### I also design beautiful and resposive wesites.
+
+
+### Feel free to contact me. 
+### Email: **dawiteliaskassaye@gmail.com** 
+### Tel: **+251 9-83-66-4237** 
+### [Instagram](https://www.instagram.com/dawitelias/)
+### [GitHub](https://github.com/dawitel/) 
+
+### My Skills 
+<p allign="center">
+  ## 🔥 Cloud infrastructure and Deployments
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,githubactions,kafka,grafana,prometheus,kubernetes,docker,ansible" />
+  </a>
+</p>
+<p allign="center">
+  ## 🔥 Backend frameworks, languages and databases
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,ts,go,mongodb,mysql,redis" />
+  </a>
+</p>
+<p allign="center">
+  ## 🔥 Frontend frameworks and languages
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,reactjs,ts,tailwind,js" />
+  </a>
+</p>
+<p allign="center">
+  ## 🔥 Testing frameworks
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,jest" />
+  </a>
+</p>
+
+## Connect with me:
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawit-elias-gebremariam/)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dawitelias/)
+[![github](https://skillicons.dev/icons?i=tweeter)](https://x.com/DawitEliasge/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/GlenMac90/)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitel&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawitel&theme=tokyonight)
+
+
