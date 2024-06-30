@@ -1,10 +1,12 @@
 ### **Computer science** under grad
-### I architect scalable, robust and perfromant backend and AWS cloud infrastructures.
+### I specialize in architecting scalable, robust and perfromant backend services, AWS cloud infrastructures, and CI/CD pipelines.
 ### I also design beautiful and resposive wesites.
 
 
 ### Feel free to contact me.
-### Email: **dawiteliaskassaye@gmail.com** 
+### Email: **dawiteliaskassaye@gmail.com**
+### Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01424fe0344391f815?mp_source=share)
+### Wesite: [dawit-elias.dev](https://portfolio-dawitels-projects.vercel.app/)
 ### Tel: **+251 9-83-66-4237** 
 ### [Instagram](https://www.instagram.com/dawitelias/)
 ### [GitHub](https://github.com/dawitel/) 
