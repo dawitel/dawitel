@@ -3,7 +3,7 @@
 ### I also design beautiful and resposive wesites.
 
 
-### Feel free to contact me. 
+### Feel free to contact me.
 ### Email: **dawiteliaskassaye@gmail.com** 
 ### Tel: **+251 9-83-66-4237** 
 ### [Instagram](https://www.instagram.com/dawitelias/)
@@ -11,7 +11,7 @@
 
 ### My Skills 
 <p align="center">
-  ### Cloud infrastructure and Deployments
+  🔥 Cloud infrastructure and Deployments
 </p>
 
 
@@ -23,7 +23,7 @@
 
 
 <p align="center">
-  ### Backend frameworks, languages and databases
+  🔥 Backend frameworks, languages and databases
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
   </a>
 </p>
 <p align="center">
-  ### Frontend frameworks and languages
+  🔥 Frontend frameworks and languages
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
   </a>
 </p>
 <p align="center">
-  ### Testing frameworks
+  🔥 Testing frameworks
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ### Connect with me:
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawit-elias-gebremariam/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dawitelias/)
-[![github](https://skillicons.dev/icons?i=tweeter)](https://x.com/DawitEliasge/)
+[![github](https://skillicons.dev/icons?i=twitter)](https://x.com/DawitEliasge/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/GlenMac90/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitel&show_icons=true&theme=tokyonight)
