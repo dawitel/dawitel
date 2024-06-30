@@ -1,4 +1,4 @@
-### **Computer science** uder grad
+### **Computer science** under grad
 ### I architect scalable, robust and perfromant backend and AWS cloud infrastructures.
 ### I also design beautiful and resposive wesites.
 
@@ -10,17 +10,17 @@
 ### [GitHub](https://github.com/dawitel/) 
 
 ### My Skills 
-<p allign="center">
-  ## 🔥 Cloud infrastructure and Deployments
+<p align="center">
+  ##🔥 Cloud infrastructure and Deployments
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,githubactions,kafka,grafana,prometheus,kubernetes,docker,ansible" />
+    <img src="https://skillicons.dev/icons?i=aws,git,githubactions,vercel,kafka,grafana,prometheus,kubernetes,docker,ansible" />
   </a>
 </p>
-<p allign="center">
-  ## 🔥 Backend frameworks, languages and databases
+<p align="center">
+  ##🔥 Backend frameworks, languages and databases
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,ts,go,mongodb,mysql,redis" />
   </a>
 </p>
-<p allign="center">
-  ## 🔥 Frontend frameworks and languages
+<p align="center">
+  ##🔥 Frontend frameworks and languages
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,reactjs,ts,tailwind,js" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js" />
   </a>
 </p>
 <p allign="center">
