@@ -3,10 +3,10 @@
 ### I also design beautiful and resposive wesites.
 
 
-### Feel free to contact me.
+###=Connect with me.
 ### Email: **dawiteliaskassaye@gmail.com**
 ### Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01424fe0344391f815?mp_source=share)
-### Wesite: [dawit-elias.dev](https://portfolio-dawitels-projects.vercel.app/)
+### Website: [dawit-elias.dev](https://portfolio-dawitels-projects.vercel.app/)
 ### Tel: **+251 9-83-66-4237** 
 ### [Instagram](https://www.instagram.com/dawitelias/)
 ### [GitHub](https://github.com/dawitel/) 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,githubactions,vercel,kafka,grafana,prometheus,kubernetes,docker,ansible" />
+    <img src="https://skillicons.dev/icons?i=aws,git,githubactions,vercel,kafka,grafana,prometheus,kubernetes,docker" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dawit-elias-gebremariam/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dawitelias/)
 [![github](https://skillicons.dev/icons?i=twitter)](https://x.com/DawitEliasge/)
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/GlenMac90/)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/dawitel/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitel&show_icons=true&theme=tokyonight)
 
