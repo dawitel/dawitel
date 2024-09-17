@@ -1,4 +1,4 @@
-### **Computer science** under grad
+### 👋Hi there, Dawit here, a golang backend engineer.
 ### I specialize in architecting scalable, robust and perfromant backend services, AWS cloud infrastructures, and CI/CD pipelines.
 ### I also design beautiful and resposive wesites.
 
