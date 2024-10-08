@@ -3,7 +3,7 @@
 ### I also design beautiful and resposive wesites.
 
 
-###=Connect with me.
+### Connect with me.
 ### Email: **dawiteliaskassaye@gmail.com**
 ### Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01424fe0344391f815?mp_source=share)
 ### Website: [dawit-elias.dev](https://portfolio-dawitels-projects.vercel.app/)
