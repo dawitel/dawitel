@@ -1,6 +1,6 @@
-### 👋Hi there, Dawit here, a golang backend engineer.
+### 👋Hi there, Dawit here, a backend and web3 developer.
 ### I specialize in architecting scalable, robust and perfromant backend services, AWS cloud infrastructures, and CI/CD pipelines.
-### I also design beautiful and resposive wesites.
+### I also build web 3 solutions for companies that foresee themseves in this space represented well.
 
 
 ### Connect with me.
@@ -8,7 +8,6 @@
 ### Hire me on Upwork: [Upwork profile](https://www.upwork.com/freelancers/~01424fe0344391f815?mp_source=share)
 ### Website: [dawit-elias.dev](https://portfolio-dawitels-projects.vercel.app/)
 ### Tel: **+251 9-83-66-4237** 
-### [Instagram](https://www.instagram.com/dawitelias/)
 ### [GitHub](https://github.com/dawitel/) 
 
 ### My Skills 
@@ -30,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,ts,go,mongodb,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,ts,go,mongodb,mysql,redis,rust" />
   </a>
 </p>
 <p align="center">
