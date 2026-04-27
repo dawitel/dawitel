@@ -1,4 +1,4 @@
-### 👋Hi there, Dawit here, a backend and web3 developer.
+### 👋Hi there, It's Dawit, a web 3 and backend developer.
 ### I specialize in architecting scalable, robust and perfromant backend services, AWS cloud infrastructures, and CI/CD pipelines.
 ### I also build web 3 solutions for companies that foresee themseves in this space represented well.
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,nestjs,ts,go,mongodb,mysql,redis,rust" />
+    <img src="https://skillicons.dev/icons?i=ts,go,rust" />
   </a>
 </p>
 <p align="center">
