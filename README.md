@@ -58,8 +58,8 @@
 [![github](https://skillicons.dev/icons?i=twitter)](https://x.com/DawitEliasge/)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/dawitel/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitel&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawitel&show_icons=true&theme=tokyonight&v=2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawitel&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawitel&theme=tokyonight&v=2)
 
 
